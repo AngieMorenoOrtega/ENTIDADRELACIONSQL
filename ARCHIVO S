@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4615.4 Safari/537.36 diagrams.net 18.6.18.0" version="13.3.7.2" type="device">
-    <diagram id="mRltDQ1JDz-6f-zf0NW0">
-        <mxGraphModel dx="1488" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0" />
-                <mxCell id="1" parent="0" />
-                <!-- Entidad -->
-                <mxCell id="En_1" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
-                    <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
-                </mxCell>
-                <mxCell id="At_1" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="En_1">
-                    <mxGeometry x="30" y="10" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_2" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="En_1">
-                    <mxGeometry x="30" y="40" width="80" height="30" as="geometry" />
-                </mxCell>
-  <mxCell id="En_2" value="AtributosComunes" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
-                    <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
-                </mxCell>
-                <!-- Relación entre Clientes y AtributosComunes -->
-                <mxCell id="Re_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" connectable="0" parent="1" source="En_1" target="En_2">
-                    <mxGeometry relative="1" as="geometry" />
-                    <mxGeometry relative="1" as="geometry" />
-                    <Array as="d">
-                        <mxPoint x="0" y="0" as="Point" />
-                        <mxPoint x="0" y="1" as="Point" />
-                    </Array>
-                    <Array as="sourceAnchors">
-                        <mxPoint x="0.5" y="0" as="Point" />
-                    </Array>
-                    <Array as="targetAnchors">
-                        <mxPoint x="0.5" y="0" as="Point" />
-                    </Array>
-                </mxCell>
-                <!-- Etiqueta de la relación -->
-                <mxCell id="Re_1_label" value="1..N" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" connectable="0" parent="Re_1">
-                    <mxGeometry relative="1" as="geometry" />
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
+<mxfile userAgent="Mozilla/5.0" version="13.1.4" type="device" id="Jm7TDBbde12f5-juFNVH-7t6x-86JEsjeQ6be6" modified="2023-10-19T00:00:00.000Z">
+  <diagram id="kG7CQRLwakf82rUo-NhM-58a7Tuf0rrCKr7R-Uk-03m2oeYI2VpY" name="Page-1" pageWidth="827" pageHeight="1169" background="#ffffff">
+    <mxGraphModel dx="827" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VbXQv4E56R5jG2qzL7UW-8YCE3DvOUn2Gq5q3" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#F9F9F9" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="20" y="20" width="780" height="1229" as="geometry" />
+        </mxCell>
+        <mxCell id="n7V76ChrgrrhU7HAE65g-7T8aNkaS6i6" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#FFFFFF" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="40" y="80" width="740" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="P9ioje7gU66N2jZQbbR-Uk-EuVJrZa2kO0z5bO7U" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#FFFFFF" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="60" y="140" width="700" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="mUZwb3bc3b3j9V8mB-dbe6doXOb7EhsbP52H9" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#FFFFFF" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="80" y="200" width="660" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="NdoXOb7b7U8V8mB-3bM-obUbdbdbdbe6doX3" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#FFFFFF" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="100" y="260" width="620" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="oXOb7U8oX8V8mB-3bM-bd3bMbM-obUbdbd3bO7E" value="" style="group" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="1" allowOverlap="0" resizable="0" fillColor="#FFFFFF" strokeColor="#000000" fillOpacity="60">
+          <mxGeometry x="120" y="320" width="580" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oX8oX8V8mB-3bMbM-obUb7E8oXOb7E6doX3" value="" style="shape=note;whiteSpace=wrap;html=1;rounded=0;comic=0;fillColor=none;strokeColor=none;gradientColor=none;glass=0;shadow=0;dashed=0;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;rounded=0;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" allowGradientSize="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" edgeStyle="orthogonalEdgeStyle" x="160" y="410" width="520" height="120" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdb7EoXOb7E6doX3" value="Proveedores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="14" dy="0" fillOpacity="100" fill="#F9F9F9" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="center" verticalAlign="middle" x="220" y="500" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdbd3bO7E6doX3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="530" width="400" height="30" as="geometry" />
+        <mxCell id="oXOb7U8oX8V8mB-3bM-obUbdbdbd3bO7E3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="560" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdb7EoXOb7E6doX3" value="Productos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="14" dy="0" fillOpacity="100" fill="#FFFFFF" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="center" verticalAlign="middle" x="220" y="590" width="400" height="30" as="geometry" />
+        <mxCell id="oXOb7U8oX8V8mB-3bM-bd3bMbM-obUbdb7EoXOb7E6doX3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="620" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUb7E8oXOb7E6doX3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" allowGradientSize="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="650" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdb7EoXOb7E6doX3" value="Categorías" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" allowGradientSize="0" resizable="0" clip="0" opacity="100" fontSize="14" dy="0" fillOpacity="100" fill="#FFFFFF" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="center" verticalAlign="middle" x="220" y="680" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUb7E8oXOb7E6doX3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="710" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdbd3bO7E6doX3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="740" width="400" height="30" as="geometry" />
+        <mxCell id="oXOb7U8oX8V8mB-3bM-obUbdbdbd3bO7E3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="770" width="400" height="30" as="geometry" />
+        <mxCell id="oX8oX8V8mB-3bMbM-obUbdb7EoXOb7E6doX3" value="Productos_Proveedores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="14" dy="0" fillOpacity="100" fill="#FFFFFF" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="center" verticalAlign="middle" x="220" y="800" width="400" height="30" as="geometry" />
+        <mxCell id="oXOb7U8oX8V8mB-3bM-bd3bMbM-obUbdb7EoXOb7E6doX3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertexLabels="1" collapsed="0" connect="0" allowOverlap="0" resizable="0" clip="0" opacity="100" fontSize="12" dy="0" fillOpacity="100" fill="#ffffff" strokeOpacity="100" verticalLabelPosition="bottom" labelBackgroundColor="#ffffff" align="left" verticalAlign="middle" x="220" y="830" width="400" height="30" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
 </mxfile>
+
 
