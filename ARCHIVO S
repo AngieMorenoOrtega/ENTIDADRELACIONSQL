@@ -5,131 +5,18 @@
             <root>
                 <mxCell id="0" />
                 <mxCell id="1" parent="0" />
-                <!-- Entidades -->
-                <mxCell id="En_1" value="" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
-                </mxCell>
-                <mxCell id="En_2" value="" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
-                </mxCell>
-                <mxCell id="En_3" value="" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
-                </mxCell>
-                <mxCell id="En_4" value="" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="70" y="680" width="120" height="60" as="geometry" />
-                </mxCell>
-                <!-- Atributos -->
-                <mxCell id="At_1" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="80" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_2" value="Nombre de la empresa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="110" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_3" value="Dirección" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="280" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_4" value="Teléfono(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="310" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_5" value="Página web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="480" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_6" value="Nit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="510" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_7" value="Nip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="680" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_8" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="220" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_9" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="420" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_10" value="Precio de compra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="620" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_11" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="820" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_12" value="Nombre de la categoría" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="850" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_13" value="Descripcion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1020" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_14" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1120" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_15" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1150" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_16" value="Descripción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1320" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_17" value="Precio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1350" width="80" height="30" as="geometry" />
-                </mxCell>
-                <mxCell id="At_18" value="Stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-                    <mxGeometry x="240" y="1520" width="80" height="30" as="geometry" />
-                </mxCell>
-                <!-- Relaciones -->
-                <mxCell id="Re_1" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" connectable="0" vertex="0">
-                    <mxGeometry relative="1" as="geometry" />
-                    <mxGeometry relative="1" as="geometry" />
-                    <Array as="d">
-                        <mxPoint x="0" y="0" as="Point" />
-                        <mxPoint x="0" y="0" as="Point" />
-                    </Array>
-                </mxCell>
-                <mxCell id="Re_2" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" connectable="0" vertex="0">
-                    <mxGeometry relative="1" as="geometry" />
-                    <mxGeometry relative="1" as="geometry" />
-                    <Array as="d">
-                        <mxPoint x="0" y="0" as="Point" />
-                       
-<!-- Entidad Productos -->
-<mxCell id="En_5" value="" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
-</mxCell>
-<mxCell id="At_19" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="880" width="80" height="30" as="geometry" />
-</mxCell>
-<mxCell id="At_20" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="910" width="80" height="30" as="geometry" />
-</mxCell>
-<mxCell id="At_21" value="Descripción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="940" width="80" height="30" as="geometry" />
-</mxCell>
-<mxCell id="At_22" value="Precio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="970" width="80" height="30" as="geometry" />
-</mxCell>
-<mxCell id="At_23" value="Stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="1000" width="80" height="30" as="geometry" />
-</mxCell>
-<mxCell id="At_24" value="ID de la Categoría (FK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" vertex="1">
-    <mxGeometry x="240" y="1030" width="80" height="30" as="geometry" />
-</mxCell>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4615.4 Safari/537.36 diagrams.net 18.6.18.0" version="13.3.7.2" type="device">
-    <diagram id="mRltDQ1JDz-6f-zf0NW0">
-        <mxGraphModel dx="1488" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-            <root>
-                <mxCell id="0" />
-                <mxCell id="1" parent="0" />
                 <!-- Entidad -->
-                <mxCell id="En_1" value="Entidad" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
+                <mxCell id="En_1" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
                     <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
                 </mxCell>
-                <!-- Atributos -->
-                <mxCell id="At_1" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
-                    <mxGeometry x="240" y="80" width="80" height="30" as="geometry" />
+                <mxCell id="At_1" value="ID (PK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="En_1">
+                    <mxGeometry x="30" y="10" width="80" height="30" as="geometry" />
                 </mxCell>
-                <mxCell id="At_2" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
-                    <mxGeometry x="240" y="110" width="80" height="30" as="geometry" />
+                <mxCell id="At_2" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="En_1">
+                    <mxGeometry x="30" y="40" width="80" height="30" as="geometry" />
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
 </mxfile>
+
