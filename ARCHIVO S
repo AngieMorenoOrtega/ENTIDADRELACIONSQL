@@ -15,6 +15,28 @@
                 <mxCell id="At_2" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" connectable="0" parent="En_1">
                     <mxGeometry x="30" y="40" width="80" height="30" as="geometry" />
                 </mxCell>
+  <mxCell id="En_2" value="AtributosComunes" style="shape=rounded;whiteSpace=wrap;html=1;" vertex="1" connectable="0">
+                    <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+                </mxCell>
+                <!-- Relación entre Clientes y AtributosComunes -->
+                <mxCell id="Re_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" connectable="0" parent="1" source="En_1" target="En_2">
+                    <mxGeometry relative="1" as="geometry" />
+                    <mxGeometry relative="1" as="geometry" />
+                    <Array as="d">
+                        <mxPoint x="0" y="0" as="Point" />
+                        <mxPoint x="0" y="1" as="Point" />
+                    </Array>
+                    <Array as="sourceAnchors">
+                        <mxPoint x="0.5" y="0" as="Point" />
+                    </Array>
+                    <Array as="targetAnchors">
+                        <mxPoint x="0.5" y="0" as="Point" />
+                    </Array>
+                </mxCell>
+                <!-- Etiqueta de la relación -->
+                <mxCell id="Re_1_label" value="1..N" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" connectable="0" parent="Re_1">
+                    <mxGeometry relative="1" as="geometry" />
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
